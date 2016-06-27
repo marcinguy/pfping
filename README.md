@@ -1,10 +1,10 @@
-# Python Parallel Ping
+# Python Parallel Fast Ping
 
-Python ping with progressbar and multiprocessing
+Python fast ping with progressbar and multiprocessing
 
 ## Description
 
-Python parallel ping with progressbar. Cut the scan time based on the amount of the cores installed on your computer.
+Python parallel fast ping with progressbar. Cut the scan time based on the amount of the cores installed on your computer.
 
 Scans ca 20,000 in ca. 1 min with 1000 parallel processes and timeout of 3 secs.
 
