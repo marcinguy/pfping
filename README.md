@@ -6,6 +6,8 @@ Ping with progressbar and multiprocessing
 
 Parallel ping with progressbar. Cut the scan time based on the amount of the cores installed on your computer.
 
+Scans ca 20,000 in ca. 1 min with 1000 parallel processes and timeout of 3 secs.
+
 
 ## Dependencies
 
