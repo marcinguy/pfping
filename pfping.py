@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+__author__ = "Marcin Kozlowski <marcinguy@gmail.com>"
+
+
 import os
 import platform
 import multiprocessing
