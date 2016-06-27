@@ -1,4 +1,4 @@
-# Parallel IP Scanner
+# Parallel Ping
 
 Ping with progressbar and multiprocessing
 
